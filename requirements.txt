@@ -1,0 +1,9 @@
+jupyter
+torch
+torchdata
+
+transformers
+evaluate
+rouge_score
+peft
+trl
